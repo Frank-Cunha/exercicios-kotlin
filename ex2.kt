@@ -1,5 +1,4 @@
-// USUARIO DEVE INFORMAR UM NUMERO E O ALGORITMO DEVE IMPRIMIR EM ORDEM 
-//DESCRESCENTE NA TELA USANDO ESTRUTURA ENQUANTO
+//digite um algoritmo com a nota A, nota B e nome do aluno do colégio, imprima na tela.
 
 import java.util.*
 
