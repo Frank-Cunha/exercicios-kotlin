@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">combustivel</string>
+    <string name="gasolina_ou_alcool">Gasolina ou Alcool?</string>
+    <string name="alcool_ex_4_79">alcool</string>
+    <string name="gasolina_ex_4_86">gasolina</string>
+    <string name="qual_o_melhor_combustivel">combustível</string>
+    <string name="todo">TODO</string>
+    <string name="qual_o_melhor_combustivel1">Qual o melhor combustivel?</string>
+
+</resources>
